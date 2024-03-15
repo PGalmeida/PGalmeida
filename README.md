@@ -1,4 +1,4 @@
-# Salve, aqui é o Pedro!
+# Salve Salve, aqui é o Pedro!
 ### Bem vindo ao meu perfil do GitHub
 
 <div align="center">
