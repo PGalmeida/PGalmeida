@@ -11,7 +11,7 @@
 <div class="contato" align="center">
     <a href="https://www.linkedin.com/in/pedro-gomes-a88a54266" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     <a href = "mailto:pedro8tp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://www.instagram.com/pedro.moedas/"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%25230077B5?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+    <a href = "https://www.instagram.com/pedrog.alm/"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%25230077B5?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
